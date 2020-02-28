@@ -1,5 +1,5 @@
 # janardanchavan.github.io
-![](me.jpg)
+![Alternate](me.jpg)
 
 Project Website
 
