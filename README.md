@@ -1,4 +1,6 @@
 # janardanchavan.github.io
+![](me.jpg)
+
 Project Website
 
 First Header | Second Header
