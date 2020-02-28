@@ -1,5 +1,5 @@
 # janardanchavan.github.io
-![Alternate](me.jpg)
+![AlternateText](https://github.com/janardanchavan/janardanchavan.github.io/blob/master/Me.jpg)
 
 Project Website
 
