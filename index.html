@@ -37,7 +37,35 @@
                 width: 100px;
                 border: 2px solid #d4a259;
                 border-radius: 100%;
+                
+            }
+
+            .mytitle{
+                font-size: 1.33333rem;
+                line-height: 1.2;
+                font-family: "Crimson Text", serif;
+                font-weight: 600;
+                margin: 0;
+            }
+
+            .mycontent{
+                margin-left: 300px;
+                padding-bottom: 3.33333em;
+                padding-top: 3.33333em;
+                padding-left: 3vw;
+                padding-right: 3vw;
+            }
+
+            .img{
+                vertical-align: middle;
+            }
+
+            .p{
                 display: block;
+                margin-block-start: 1em;
+                margin-block-end: 1em;
+                margin-inline-start: 0px;
+                margin-inline-end: 0px;
             }
         </style>
     </head>
@@ -46,11 +74,15 @@
             <div class="myheader-inside">
                 <div class=".myprofile">
                     <a href="">
-                        <img src="Me.jpg" sizes="(max-width: 800px) 45px 100px" alt="Janardan Chavan">
-                    </a>
-                    Hi Janardan!
+                        <img src="Me.jpg" sizes="45px 100px" alt="Janardan Chavan" class="avatar">
+                    </a><br/>
+                    <p class="mytitle">Janardan Chavan</p>
+                    
                 </div>
             </div>
+        </div>
+        <div class="mycontent">
+            Janardan
         </div>
     </body>
 </html>
