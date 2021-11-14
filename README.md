@@ -1,5 +1,5 @@
 # Hi 👋, I am Janardan Chavan
-![Janardan Chavan](https://github.com/janardanchavan/janardanchavan.github.io/blob/master/Me.jpg)
+<img src="https://github.com/janardanchavan/janardanchavan.github.io/blob/master/Me.jpg" width="50%" height="50%">
 
 Project Website
 
