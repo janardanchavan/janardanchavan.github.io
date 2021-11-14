@@ -1,5 +1,5 @@
-# janardanchavan.github.io
-![AlternateText](https://github.com/janardanchavan/janardanchavan.github.io/blob/master/Me.jpg)
+# Hi 👋. I am Janardan Chavan
+![Janardan Chavan](https://github.com/janardanchavan/janardanchavan.github.io/blob/master/Me.jpg)
 
 Project Website
 
